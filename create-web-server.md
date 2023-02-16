@@ -1,6 +1,7 @@
 # Создание веб-сервера. Команды для лекции.
 
 Полезные ссылки:
+</br>
 <https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04-ru>
 <https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-on-ubuntu-18-04-ru>
 <https://www.nginx.com/blog/installing-wordpress-with-nginx-unit/>
